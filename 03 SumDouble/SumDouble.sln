@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumDouble", "SumDouble\SumDouble.csproj", "{8D1851E6-3F13-4597-959F-F3213BFB3296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumDoubleTests", "SumDoubleTests\SumDoubleTests.csproj", "{D79FB3BE-8735-45C6-9983-1770CB27AADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1851E6-3F13-4597-959F-F3213BFB3296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1851E6-3F13-4597-959F-F3213BFB3296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1851E6-3F13-4597-959F-F3213BFB3296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1851E6-3F13-4597-959F-F3213BFB3296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79FB3BE-8735-45C6-9983-1770CB27AADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79FB3BE-8735-45C6-9983-1770CB27AADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79FB3BE-8735-45C6-9983-1770CB27AADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79FB3BE-8735-45C6-9983-1770CB27AADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
