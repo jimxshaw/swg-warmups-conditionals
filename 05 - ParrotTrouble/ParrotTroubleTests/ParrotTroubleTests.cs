@@ -27,7 +27,7 @@ namespace ParrotTroubleTests
         [TestCase(false, 22, false)]
         [TestCase(true, 7, false)]
         [TestCase(false, 6, false)]
-        public void AreWeInTrouble_Bools_ReturnBool(bool isTalking, int hour, bool expectedResult)
+        public void ParrotTrouble_Int_ReturnBool(bool isTalking, int hour, bool expectedResult)
         {
             bool result = _class1.ParrotTrouble(isTalking, hour);
 
