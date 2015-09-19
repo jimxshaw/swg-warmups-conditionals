@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiple3or5", "Multiple3or5\Multiple3or5.csproj", "{40C8574C-BD3D-4293-B6B3-175ABFD69992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiple3or5Tests", "Multiple3or5Tests\Multiple3or5Tests.csproj", "{CE122FB5-6837-4D43-AFDC-6C75DCD0B8FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C8574C-BD3D-4293-B6B3-175ABFD69992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C8574C-BD3D-4293-B6B3-175ABFD69992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C8574C-BD3D-4293-B6B3-175ABFD69992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C8574C-BD3D-4293-B6B3-175ABFD69992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE122FB5-6837-4D43-AFDC-6C75DCD0B8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE122FB5-6837-4D43-AFDC-6C75DCD0B8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE122FB5-6837-4D43-AFDC-6C75DCD0B8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE122FB5-6837-4D43-AFDC-6C75DCD0B8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

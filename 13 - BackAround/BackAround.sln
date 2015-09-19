@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackAround", "BackAround\BackAround.csproj", "{78811770-85F5-4955-86F5-0B822A07393C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackAroundTests", "BackAroundTests\BackAroundTests.csproj", "{362068E7-5CF2-4705-8C99-EE95FF31B8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78811770-85F5-4955-86F5-0B822A07393C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78811770-85F5-4955-86F5-0B822A07393C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78811770-85F5-4955-86F5-0B822A07393C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78811770-85F5-4955-86F5-0B822A07393C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362068E7-5CF2-4705-8C99-EE95FF31B8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362068E7-5CF2-4705-8C99-EE95FF31B8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362068E7-5CF2-4705-8C99-EE95FF31B8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362068E7-5CF2-4705-8C99-EE95FF31B8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
