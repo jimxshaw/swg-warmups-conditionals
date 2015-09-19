@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasTeen", "HasTeen\HasTeen.csproj", "{A20430AC-18BF-4880-82AF-F1FAD62ADCC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HasTeenTests", "HasTeenTests\HasTeenTests.csproj", "{A90871A5-990E-4670-AE59-6E6D9D9CFD7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A20430AC-18BF-4880-82AF-F1FAD62ADCC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20430AC-18BF-4880-82AF-F1FAD62ADCC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20430AC-18BF-4880-82AF-F1FAD62ADCC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20430AC-18BF-4880-82AF-F1FAD62ADCC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90871A5-990E-4670-AE59-6E6D9D9CFD7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90871A5-990E-4670-AE59-6E6D9D9CFD7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90871A5-990E-4670-AE59-6E6D9D9CFD7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90871A5-990E-4670-AE59-6E6D9D9CFD7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
